@@ -1,0 +1,6 @@
+git log
+
+git diff id1 id2  # 2 commits
+
+A good rule of thumb is to make one commit per logical change.
+
